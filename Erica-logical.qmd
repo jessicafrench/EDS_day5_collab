@@ -1,0 +1,31 @@
+---
+title: "Erica-logical"
+format: html
+editor: visual
+---
+
+##Logical expressions practice
+
+```{r}
+
+#test some logical statements
+5=1
+
+"cat" == "dog"
+
+meds <- c(1,2,3,4,5)
+
+meds == 3
+
+meds == 1 | meds > 3
+
+teddy <- 5
+banjo <- 7
+tallie <- 4
+
+teddy <= banjo
+
+
+
+```
+
